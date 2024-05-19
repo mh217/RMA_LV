@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "158808624851",
+    "project_id": "rma-lv-fda61",
+    "storage_bucket": "rma-lv-fda61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158808624851:android:829b4bd901f25699244e26",
+        "android_client_info": {
+          "package_name": "com.example.bmiapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbXK7W3SpyaFzokAovf7tX5blxCwknbMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158808624851:android:2ff9bd1321a1fe6f244e26",
+        "android_client_info": {
+          "package_name": "com.example.rma_lv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbXK7W3SpyaFzokAovf7tX5blxCwknbMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158808624851:android:47178f6da6d4b0c7244e26",
+        "android_client_info": {
+          "package_name": "rma.lv1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbXK7W3SpyaFzokAovf7tX5blxCwknbMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
